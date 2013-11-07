@@ -23,8 +23,8 @@
 #### 3. Cliccare su "Star".
 #### 4. Forkare il progetto cliccando su *Fork* in alto a destra dentro la visualizzazione di github all'interno del repository.
 #### 5. Dopo di ciò il repository verrà *clonato* all'interno del vostro profilo e potrete modificarlo come più gradite, aggiungendo tutti gli appunti, gli esercizi, etc. che preferite.
-#### 5. Per inviarmi le modifiche e così aggiornare il progetto vi basterà cliccare sul tastino verde all'interno del vostro repository su github ed inviarmi la *Pull Request*.
-#### 6. A quel punto toccherà a me applicare le vostre modifiche al nuovo progetto così da renderle disponibili a tutti gli altri.
+#### 6. Per inviarmi le modifiche e così aggiornare il progetto vi basterà cliccare sul tastino verde all'interno del vostro repository su github ed inviarmi la *Pull Request*.
+#### 7. A quel punto toccherà a me applicare le vostre modifiche al nuovo progetto così da renderle disponibili a tutti gli altri.
 
 ## Seguire le novità
 #### Il progetto sarà in continuo aggiornamento e sarà altrettanto importante seguire i cambiamenti, per fare ciò vi basterà cliccare su *Watch* all'interno del repository su github.
