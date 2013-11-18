@@ -2,22 +2,26 @@
 
 ## Esercizio 1(15/30) (Analisi E Scelte Fatte 6, Gestione Thread E Sincronizzazione 6, Codice 3)
 
-Un gruppo di N amici con N>4, decidono di far un torneo di ping pong. Per fare ciò affittano M con M>2 tavoli da ping pong con relative racchette.
-Quindi scelti i primi M*2 giocatori essi giocano e finita la partita si mettono a turno ad un altro tavolo scelto a caso .
-La fine del torneo è decretata da un evento esterno che comunque fa terminare le partite in corso.
-Il vincitore sarà colui che ha vinto più partite.
-Si considerino le persone come thread utilizzando le variabili condivise solo per aggiornare i punteggi, mentre per la sincronizzazione utilizzare esclusivamente mutex o semafori.
-La vita dei giocatori è questa.
-Finchè non è scaduto il tempo
+* Un gruppo di N amici con N>4, decidono di far un torneo di ping pong. Per fare ciò affittano M con M>2 tavoli da ping pong con relative racchette.
+* Quindi scelti i primi M*2 giocatori essi giocano e finita la partita si mettono a turno ad un altro tavolo scelto a caso .
+* La fine del torneo è decretata da un evento esterno che comunque fa terminare le partite in corso.
+* Il vincitore sarà colui che ha vinto più partite.
+* Si considerino le persone come thread utilizzando le variabili condivise solo per aggiornare i punteggi, mentre per la sincronizzazione utilizzare esclusivamente mutex o semafori.
+* La vita dei giocatori è questa.
+* Finchè non è scaduto il tempo
+* Scelgo il campo random e cerco di acquisire uno dei due posti.
+* Se sono il primo giocatore del campo esimo:
 
-Scelgo il campo random e cerco di acquisire uno dei due posti.
-
-Se sono il primo giocatore del campo esimo
 1. Aspetto che il secondo giocatore si presenti e gioco.
-Se sono il secondo giocatore del campo esimo
+
+* Se sono il secondo giocatore del campo esimo
+
 1. si gioca
+
 2. aggiorno il punteggio, il mio se sono il vincitore viceversa il punteggio del mio avversario.
+
 3. Rilascio il tavolo e faccio rilasciare il tavolo anche al mio avversario
+
 Si analizzi la simulazione commentando le scelte fatte e si sviluppi un programma in C che simuli la situazione descritta.
 
 ## Esercizio 2(15/30) Per gli studenti di Sistemi Operativi e Sistemi Operativi II
