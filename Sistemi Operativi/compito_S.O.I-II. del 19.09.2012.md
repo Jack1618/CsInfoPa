@@ -26,6 +26,11 @@ Si analizzi la simulazione commentando le scelte fatte e si sviluppi un programm
 
 ## Esercizio 2(15/30) Per gli studenti di Sistemi Operativi e Sistemi Operativi II
 
-Scrivere un programma multi processo in linguaggio C in ambiente linux in cui si simuli l’esercizio precedente considerando questa volta i tavoli come processi distinti. Questa volta si conosce il numero di partite da effettuare in ogni tavolo.
+Scrivere un programma multi processo in linguaggio C in ambiente linux in cui si simuli l’esercizio precedente considerando questa volta i tavoli come processi distinti.
+
+Questa volta si conosce il numero di partite da effettuare in ogni tavolo.
+
 In pratica il processo principale dati un input N e Me K con N numero di giocatori M i tavoli e K numero di partite da effettuare per ogni tavolo, si generino M processi, uno per ogni tavolo.
-Il processo esimo simulerà le K partite dei vari giocatori aggiornando il punteggio dei vari giocatori. Si suggerisce di utilizzare un vettore di N booleani per tenere presente chi sta giocando e chi no.
+
+Il processo esimo simulerà le K partite dei vari giocatori aggiornando il punteggio dei vari giocatori.
+Si suggerisce di utilizzare un vettore di N booleani per tenere presente chi sta giocando e chi no.
