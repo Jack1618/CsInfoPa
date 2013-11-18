@@ -30,9 +30,9 @@
 #### Il progetto sarà in continuo aggiornamento e sarà altrettanto importante seguire i cambiamenti, per fare ciò vi basterà cliccare su *Watch* all'interno del repository su github.
 
 ## Alcune note
-* Molte volte è capitato di dover caricare parecchie immagini di più appunti che vengono a pesare svariati Mb e magari sono difficili anche da gestire; per risolvere al problema inserite tutte le immagini all'interno di un pdf che non solo sarà meno pesante ma sarà più facile da gestire. Per fare ciò potete usare questo: [JPG2PDF](http://www.convert-jpg-to-pdf.net)
+#### Molte è capitato di dover caricare parecchie immagini di più appunti che vengono a pesare svariati Mb e magari sono difficili anche da gestire; per risolvere al problema inserite tutte le immagini all'interno di un pdf che non solo sarà meno pesante ma sarà più facile da gestire. Per fare ciò potete usare questo: [JPG2PDF](http://www.convert-jpg-to-pdf.net)
 
-* Molte volte è capitato di vedere file doc o pdf contenente solo testo semplice, ognuno di questi file pesa di più rispetto al solito txt quindi vi invito a prendere il testo all'interno del doc e metterlo dentro un file con estensione .md (cioè markdown), così da avere dei documenti leggeri e che permettono una buona lettura. Questo è un chiaro esempio: [Esempio](https://github.com/dlion/CsInfoPa/blob/master/Sistemi%20Operativi/compito_S.O.I-II.%20del%2019.09.2012.md), potete vedere la sintassi usata premendo su "raw".
+#### Molte volte è capitato di vedere file doc o pdf contenente solo testo semplice, ognuno di questi file pesa di più rispetto al solito txt quindi vi invito a prendere il testo all'interno del doc e metterlo dentro un file con estensione .md (cioè markdown), così da avere dei documenti leggeri e che permettono una buona lettura. Questo è un chiaro esempio: [Esempio](https://github.com/dlion/CsInfoPa/blob/master/Sistemi%20Operativi/compito_S.O.I-II.%20del%2019.09.2012.md), potete vedere la sintassi usata premendo su "raw".
 
 ## Ringraziamenti
 #### Inserirò qui gli studenti/utenti che aiuteranno il progetto in questione.
