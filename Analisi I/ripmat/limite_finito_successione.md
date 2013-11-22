@@ -6,7 +6,7 @@
 ### Per impostare la definizione di limite dobbiamo dire che prendendo termini più avanzati la differenza fra questi termini e il limite diventerà sempre più piccola.
 
 ### Consideriamo ora la successione generica:
-## a1, a2, a3, a4, a5, ..., a<sub>n</sub>sub>, ...
-### per indicarla consideriamo il suo termine generico an, diremo che la successione a<sub>n</sub>sub> ammette limite finito l per n → ∞ e scriveremo:
-## lim <sub>n→∞</sub>sub> a<sub>n</sub>sub> = l
-### Se fissato un numero Ɛ piccolo a piacere è possibile trovare un termine della successione tale che per quel termine e tutti i suoi successivi valga la relazione: |a<sub>n</sub>sub> - l| < Ɛ
+## a1, a2, a3, a4, a5, ..., a<sub>n</sub>, ...
+### per indicarla consideriamo il suo termine generico an, diremo che la successione a<sub>n</sub> ammette limite finito l per n → ∞ e scriveremo:
+## lim <sub>n→∞</sub> a<sub>n</sub> = l
+### Se fissato un numero Ɛ piccolo a piacere è possibile trovare un termine della successione tale che per quel termine e tutti i suoi successivi valga la relazione: |a<sub>n</sub> - l| < Ɛ
