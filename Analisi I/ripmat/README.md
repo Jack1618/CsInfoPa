@@ -7,3 +7,5 @@
 * Campo di esistenza per le funzioni fratte
 * Campo di esistenza per le funzioni irrazionali
 * Campo di esistenza per le funzioni logaritmiche
+* Funzioni Composte
+* Limite finito di una successione
