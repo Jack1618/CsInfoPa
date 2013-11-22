@@ -5,3 +5,5 @@
 
 ### Queste sono le pagine fin'ora inserite:
 * Campo di esistenza per le funzioni fratte
+* Campo di esistenza per le funzioni irrazionali
+* Campo di esistenza per le funzioni logaritmiche
