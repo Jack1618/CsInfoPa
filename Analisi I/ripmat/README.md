@@ -9,3 +9,4 @@
 * Campo di esistenza per le funzioni logaritmiche
 * Funzioni Composte
 * Limite finito di una successione
+* Limite di una successione divergente
