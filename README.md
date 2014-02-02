@@ -40,3 +40,4 @@
 * [Gianluca La Manna](http://github.com/Hanslukas)
 * [Alessio Lombardo](http://github.com/alessiolombardo)
 * [Falfeo](http://github.com/falfeo)
+* [VickPix](http://github.com/VickPix)
