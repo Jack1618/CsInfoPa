@@ -1,4 +1,0 @@
-/* Serve nel caso si voglia utilizzare la funzione main generata di default */
-%option main
-
-%%
