@@ -1,3 +1,4 @@
 *.exe
 *.class
 *.com
+.DS_Store
